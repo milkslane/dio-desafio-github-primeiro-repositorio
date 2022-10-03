@@ -1,0 +1,9 @@
+Comandos importantes:
+
+- "git status" para conferir o que foi mudado recentemente;
+
+- "git add ." para adicionar ao repositório local e preparar os arquivos para o envio;
+
+- "git commit" para efetivamente enviar ao repositório e escrever uma breve mensagem que resume aquela alteração;
+
+- "git push -u origin master" para enviar todos os commits para a nuvem.
